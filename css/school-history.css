@@ -1,0 +1,53 @@
+.history {
+  width: 1200px;
+  border: solid 2px;
+  margin: auto;
+  margin-top: 50px;
+  height: 2000px;
+  position: relative;
+}
+.history h2 {
+  width: 900px;
+  margin: auto;
+  margin-top: 20px;
+  text-align: center;
+  color: #ed8c0c;
+  font-family: 'Russo One', sans-serif;
+  letter-spacing: 2px;
+  font-size: 2.2em;
+}
+.history p {
+  width: 300px;
+  margin: 0;
+  position: absolute;
+  color: #0c2458;
+  font-weight: bold;
+  font-size: 1.17em;
+  padding: 10px 20px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px silver;
+}
+#history-p1 {
+top: 200px;
+left: 150px;
+}
+.history img {
+  filter: invert(100%) sepia(100%) hue-rotate(200deg) brightness(0.5);
+  position: absolute;
+}
+#history-img1 {
+
+}
+#history-p2 {
+right: 150px;
+top: 500px;
+}
+#history-p3 {
+bottom: 10px;
+}
+#history-p4 {
+bottom: 10px;
+}
+#history-p5 {
+bottom: 10px;
+}
